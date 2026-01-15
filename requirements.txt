@@ -1,0 +1,2 @@
+whisperx
+yt_dlp[default,curl-cffi]

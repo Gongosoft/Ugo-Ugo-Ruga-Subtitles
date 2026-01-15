@@ -1,0 +1,8 @@
+__pycache__/
+*.info.json
+*.m4a
+*.mp4
+*.webm
+/.venv/
+/artifacts/
+cookies.txt
